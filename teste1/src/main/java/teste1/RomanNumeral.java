@@ -1,7 +1,12 @@
 package teste1;
 
-public class App 
-{
+import java.util.HashMap;
+import java.util.Map;
+
+public class RomanNumeral{
+
+    public RomanNumeral(){}
+    
     private static Map<Character, Integer> map;
     
     static {
@@ -25,8 +30,7 @@ public class App
             }else{
                 convertedNumber -= currentNumber;
             }
-            return convertedNumber;
         }
-        
+        return convertedNumber;
     }
 }
