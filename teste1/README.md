@@ -66,7 +66,6 @@
         </compilerArgs>
     </configuration>
 </plugin>
-
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
