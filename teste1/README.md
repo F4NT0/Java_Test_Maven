@@ -207,5 +207,5 @@ public void numberWithAndWithoutSubnotation(){
 * Utilize o comando `mvn test` para iniciar o processo de teste
 * Resultado esperado:
 
-<img src="Images/resultado-teste.png">
+<img src="../Images/resultado-teste.png">
 
